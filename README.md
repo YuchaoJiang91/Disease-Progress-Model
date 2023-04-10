@@ -3,9 +3,6 @@ This repository contains code and data created in support of my project "Neuroim
 
 
 # Paper
-![Uploading dcc2ee44bced10dad7d96e68a1ec2bc6.png…]()
-
-
 If you use these codes, please cite: 
 
 [1] Jiang, Y., Wang, J., Zhou, E. et al. Neuroimaging biomarkers define neurophysiological subtypes with distinct trajectories in schizophrenia. Nat. Mental Health 1, 186–199 (2023). https://doi.org/10.1038/s44220-023-00024-0 
